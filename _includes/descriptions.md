@@ -1,3 +1,15 @@
+### Lake Forest College - Computer Science
+{: #lake forest-cs}
+
+_Excerpt_ The Department of Mathematics and Computer Science invites applications for a tenure-track position in Computer Science at the assistant professor level beginning Fall 2025. A highly selective liberal arts college located on Chicago’s North Shore, Lake Forest College enrolls approximately 1,800 students from more than 40 states and from more than 100 countries. Lake Forest is one of the most diverse small colleges in the Midwest with approximately 40% of our student body comprised of domestic students of color and international students. The majority of our STEM pool is female and also includes a significant number of first generation and traditionally underrepresented students.
+At Lake Forest College, the quality of a faculty member’s teaching is the most important criterion for evaluation. The College also expects peer-reviewed publications and active participation in the College community. Lake Forest College embraces diversity and encourages applications from women, members of historically underrepresented groups, veterans, and individuals with disabilities. Please see full job description on AcademicJobsOnline.org ID 28627
+
+-Applications received by **November 22, 2024,** will receive full consideration.
+
+[Full Job Posting](https://academicjobsonline.org/ajo?action=joblist&args=-0-0-&id=28627&send=Go){:  .button-job}
+[ back to all deadlines](#deadlines).
+
+
 
 ------------
 
